@@ -1,0 +1,68 @@
+/* styles.css */
+
+/* Apply a dark background to the body */
+body {
+    background-color: #111; /* Dark background color */
+    color: #fff; /* Text color for better visibility on dark background */
+    font-family: Arial, sans-serif; /* Choose your preferred font */
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    background-color: #222; /* Header background color */
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+/* Landing section styles */
+.landing {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.landing h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.landing p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.landing a {
+    color: #007BFF; /* Link color */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Container styles for other sections */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #222;
+    text-align: center;
+    padding: 20px 0;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Links styles */
+a {
+    color: #007BFF; /* Link color */
+    text-decoration: none;
+}
